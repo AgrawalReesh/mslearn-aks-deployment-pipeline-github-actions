@@ -46,7 +46,5 @@ jobs:
           # Build's context is the set of files located in the specified PATH or URL
           context: .
           # List of tags
-          tags: latest
-          # repository
-          repository: contoso-website
+          tags: contoso-website/contoso-website:latest
           
